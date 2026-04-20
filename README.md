@@ -34,7 +34,7 @@ The app includes a dedicated Awareness & Education section that provides simple,
 It debunks common menstrual myths using scientifically verified and easy-to-understand explanations.
 # CycuraFounders_codeIEEE
 
-This is a code bundle for CycuraFounders_codeIEEE. The original project is available at https://buy-gem-04102906.figma.site/
+This is a code bundle for CycuraFounders_codeIEEE. The original project is available at https://rail-viola-90589464.figma.site/
 ## Running the code
 
   Run `npm i` to install the dependencies.
